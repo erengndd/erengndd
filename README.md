@@ -1,5 +1,5 @@
 ## Hi there
-I am a computer enginearing student at IEU.
+I am a computer enginearing student at IUE.
 
 Curently I am learning Java , C and SQL.
 

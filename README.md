@@ -1,6 +1,6 @@
-## Hi there 👋
-I am Eren a computer enginearing student.
-Curently I am learning Java , C and SQL.
+## Hi there
+-I am a computer enginearing student at IEU.
+-Curently I am learning Java , C and SQL.
 
 
 <!--

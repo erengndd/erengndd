@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am Eren a computer enginearing student.
+Curently I am learning Java , C and SQL.
+
 
 <!--
 **erengndd/erengndd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,7 @@
 ## Hi there
--I am a computer enginearing student at IEU.
--Curently I am learning Java , C and SQL.
+I am a computer enginearing student at IEU.
+
+Curently I am learning Java , C and SQL.
 
 
 <!--

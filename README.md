@@ -1,7 +1,10 @@
 ## Hi there
 I am a computer enginearing student at IUE.
 
-Curently I am learning Java , C and SQL.
+Programming Languages: Java,C,SQL,Python
+Frameworks & Libraries: -
+Databases: SQL
+Tools & DevOps: Git 
 
 
 <!--
